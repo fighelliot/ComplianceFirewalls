@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+relatorio_firewall.html
+relatorio_firewall.pdf
+relatorio_firewall.xlsx
