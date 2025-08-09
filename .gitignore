@@ -1,5 +1,8 @@
 __pycache__/
 *.pyc
-relatorio_firewall.html
-relatorio_firewall.pdf
-relatorio_firewall.xlsx
+relatorio_fortinet_switch.html
+relatorio_fortinet_switch.pdf
+relatorio_fortinet_switch.xlsx
+relatorio_fortinet_wifi.html
+relatorio_fortinet_wifi.pdf
+relatorio_fortinet_wifi.xlsx
